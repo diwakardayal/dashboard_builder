@@ -12,17 +12,6 @@ frontend/   React + TypeScript — Vite, Zustand, react-grid-layout, Recharts
 
 ## Running locally
 
-### Option A — Docker (recommended)
-
-```bash
-docker compose up --build
-```
-
-- Backend: http://localhost:4000
-- Frontend: http://localhost:3000
-
-### Option B — Manual
-
 ```bash
 # Terminal 1
 cd backend
